@@ -1,26 +1,29 @@
-# He thong quan ly mon an
+# 234354_LacMinhQuan
 
-## Cong nghe
+## 1. Gioi thieu
+Xay dung he thong quan ly mon an tren nen tang dam may.
+
+## 2. Cong nghe
 - React
-- Node.js
-- Express
+- Node.js va Express
 - MongoDB Atlas
 - Git va GitHub
 - Docker va Docker Hub
 - Render
 
-## Cau truc du an
-- backend/: Backend API
+## 3. Cau truc du an
+- backend/: Backend API quan ly mon an
 - frontend/: Giao dien React
-- README.md: Huong dan du an
+- README.md: Tai lieu du an
 - .gitignore: Cac tep khong dua len GitHub
 
-## Chuc nang
+## 4. Chuc nang
 - Xem danh sach mon an
 - Xem chi tiet mon an
-- Them, sua, xoa mon an
+- Them mon an
+- Cap nhat mon an
+- Xoa mon an
 - Tim kiem mon an
 
-## Huong dan
-Cai dat cac goi phu thuoc trong tung thu muc backend va frontend.
-Cau hinh bien moi truong truoc khi chay ung dung.
+## 5. Bao mat
+Khong dua file .env, mat khau hoac chuoi ket noi co thong tin xac thuc len GitHub.
